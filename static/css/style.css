@@ -2547,6 +2547,7 @@ a:hover, a:active {
 }
 .dsn-posts .metas {
   margin-bottom: 0;
+  font-size: 1.5rem;
 }
 .dsn-posts .metas > span:not(:last-of-type)::after {
   content: attr(data-separator);
